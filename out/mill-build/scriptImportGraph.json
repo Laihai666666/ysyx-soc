@@ -1,0 +1,46 @@
+{
+    "value": [
+        [
+            "/home/lh/ysyx/ysyx-workbench/ysyxSoC/rocket-chip/common.sc",
+            [
+                -930513193,
+                []
+            ]
+        ],
+        [
+            "/home/lh/ysyx/ysyx-workbench/ysyxSoC/rocket-chip/dependencies/diplomacy/common.sc",
+            [
+                -1579495881,
+                []
+            ]
+        ],
+        [
+            "/home/lh/ysyx/ysyx-workbench/ysyxSoC/rocket-chip/dependencies/cde/common.sc",
+            [
+                1698967869,
+                []
+            ]
+        ],
+        [
+            "/home/lh/ysyx/ysyx-workbench/ysyxSoC/rocket-chip/dependencies/hardfloat/common.sc",
+            [
+                -419750742,
+                []
+            ]
+        ],
+        [
+            "/home/lh/ysyx/ysyx-workbench/ysyxSoC/build.sc",
+            [
+                -1050807230,
+                [
+                    "/home/lh/ysyx/ysyx-workbench/ysyxSoC/rocket-chip/dependencies/hardfloat/common.sc",
+                    "/home/lh/ysyx/ysyx-workbench/ysyxSoC/rocket-chip/dependencies/cde/common.sc",
+                    "/home/lh/ysyx/ysyx-workbench/ysyxSoC/rocket-chip/dependencies/diplomacy/common.sc",
+                    "/home/lh/ysyx/ysyx-workbench/ysyxSoC/rocket-chip/common.sc"
+                ]
+            ]
+        ]
+    ],
+    "valueHash": 1955325074,
+    "inputsHash": 580731211
+}

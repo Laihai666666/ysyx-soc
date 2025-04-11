@@ -1,0 +1,40 @@
+{
+    "workerCache": {
+        "mill.scalalib.ZincWorkerModule.worker": {
+            "identityHashCode": 997361164,
+            "inputHash": -1199269035
+        }
+    },
+    "evalWatched": [
+        "ref:v0:c984eca8:/home/lh/ysyx/ysyx-workbench/ysyxSoC/rocket-chip/compile-resources",
+        "ref:v0:850461d4:/home/lh/ysyx/ysyx-workbench/ysyxSoC/rocket-chip/dependencies/diplomacy/diplomacy/src",
+        "ref:v0:844bdb83:/home/lh/ysyx/ysyx-workbench/ysyxSoC/rocket-chip/src/main/scala",
+        "ref:v0:c984eca8:/home/lh/ysyx/ysyx-workbench/ysyxSoC/rocket-chip/src/main/java",
+        "ref:v0:c984eca8:/home/lh/ysyx/ysyx-workbench/ysyxSoC/src/main/scala",
+        "ref:v0:c984eca8:/home/lh/ysyx/ysyx-workbench/ysyxSoC/src/main/java",
+        "ref:v0:c984eca8:/home/lh/ysyx/ysyx-workbench/ysyxSoC/compile-resources",
+        "ref:v0:3d5cccfa:/home/lh/ysyx/ysyx-workbench/ysyxSoC/rocket-chip/dependencies/cde/cde/src",
+        "ref:v0:c984eca8:/home/lh/ysyx/ysyx-workbench/ysyxSoC/rocket-chip/dependencies/cde/cde/compile-resources",
+        "ref:v0:6862d815:/home/lh/ysyx/ysyx-workbench/ysyxSoC/rocket-chip/src/main/resources",
+        "ref:v0:c984eca8:/home/lh/ysyx/ysyx-workbench/ysyxSoC/rocket-chip/dependencies/diplomacy/diplomacy/resources",
+        "ref:v0:c984eca8:/home/lh/ysyx/ysyx-workbench/ysyxSoC/rocket-chip/macros/src/main/resources",
+        "ref:v0:c984eca8:/home/lh/ysyx/ysyx-workbench/ysyxSoC/src/main/scala",
+        "ref:v0:c984eca8:/home/lh/ysyx/ysyx-workbench/ysyxSoC/src/main/java",
+        "ref:v0:66157c7b:/home/lh/ysyx/ysyx-workbench/ysyxSoC/src",
+        "ref:v0:c984eca8:/home/lh/ysyx/ysyx-workbench/ysyxSoC/src/main/resources",
+        "ref:v0:d357705a:/home/lh/ysyx/ysyx-workbench/ysyxSoC/rocket-chip/dependencies/hardfloat/hardfloat/src/main/scala",
+        "ref:v0:c984eca8:/home/lh/ysyx/ysyx-workbench/ysyxSoC/rocket-chip/dependencies/hardfloat/hardfloat/src/main/java",
+        "ref:v0:c984eca8:/home/lh/ysyx/ysyx-workbench/ysyxSoC/rocket-chip/dependencies/diplomacy/diplomacy/compile-resources",
+        "ref:v0:c984eca8:/home/lh/ysyx/ysyx-workbench/ysyxSoC/rocket-chip/dependencies/cde/cde/resources",
+        "ref:v0:b776fb69:/home/lh/ysyx/ysyx-workbench/ysyxSoC/rocket-chip/macros/src/main/scala",
+        "ref:v0:c984eca8:/home/lh/ysyx/ysyx-workbench/ysyxSoC/rocket-chip/macros/src/main/java",
+        "ref:v0:c984eca8:/home/lh/ysyx/ysyx-workbench/ysyxSoC/rocket-chip/macros/compile-resources",
+        "ref:v0:c984eca8:/home/lh/ysyx/ysyx-workbench/ysyxSoC/rocket-chip/dependencies/hardfloat/hardfloat/compile-resources",
+        "ref:v0:c984eca8:/home/lh/ysyx/ysyx-workbench/ysyxSoC/rocket-chip/dependencies/hardfloat/hardfloat/src/main/resources"
+    ],
+    "moduleWatched": [],
+    "scriptImportGraph": [],
+    "classLoaderIdentity": [],
+    "runClasspath": [],
+    "runClasspathHash": 473519988
+}

@@ -1,0 +1,9 @@
+{
+    "value": [
+        "ref:v0:c984eca8:/home/lh/ysyx/ysyx-workbench/ysyxSoC/compile-resources",
+        "ref:v0:c984eca8:/home/lh/ysyx/ysyx-workbench/ysyxSoC/src/main/resources",
+        "ref:v0:d02d8473:/home/lh/ysyx/ysyx-workbench/ysyxSoC/out/ysyxsoc/compile.dest/classes"
+    ],
+    "valueHash": 150203696,
+    "inputsHash": 304108080
+}
