@@ -1,8 +1,0 @@
-{
-    "value": [
-        "ref:v0:d357705a:/home/lh/ysyx/ysyx-workbench/ysyxSoC/rocket-chip/dependencies/hardfloat/hardfloat/src/main/scala",
-        "ref:v0:c984eca8:/home/lh/ysyx/ysyx-workbench/ysyxSoC/rocket-chip/dependencies/hardfloat/hardfloat/src/main/java"
-    ],
-    "valueHash": -172287507,
-    "inputsHash": -1390950179
-}
